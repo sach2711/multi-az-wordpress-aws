@@ -71,3 +71,20 @@ GitHub: [sach2711](https://github.com/sach2711)
 ---
 
 This project was completed as part of my learning in cloud computing and AWS. AWS resources may incur charges, so they should be monitored and stopped or deleted when no longer required.
+
+
+---
+
+## Project Screenshots
+
+### 1. WordPress Admin Dashboard
+![WordPress Dashboard](wordpress-dashboard.png)
+
+### 2. WordPress Website Through ALB
+![WordPress Website](alb-website.png)
+
+### 3. EC2 Target Health
+![Healthy EC2 Targets](healthy-targets.png)
+
+### 4. AWS Architecture Diagram
+![AWS Architecture](aws-architecture.png)
